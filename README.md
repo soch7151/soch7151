@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 github 포트폴리어 가이드라인: https://velog.io/@productuidev/%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-7-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-GitHub
+
+아키텍쳐 그리기: https://www.drawio.com/
 <!--
 **soch7151/soch7151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
